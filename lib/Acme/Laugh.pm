@@ -1,12 +1,13 @@
 package Acme::Laugh;
 
-use version; $VERSION = qv('0.0.1');
+use version; $VERSION = qv('0.0.2');
 
 use warnings;
 use strict;
 use Carp;
 use Exporter;
 
+our @ISA = qw( Exporter );
 our %EXPORT_TAGS = ('all' => [qw( laugh )]);
 our @EXPORT_OK   = (@{$EXPORT_TAGS{'all'}});
 our @EXPORT      = qw();

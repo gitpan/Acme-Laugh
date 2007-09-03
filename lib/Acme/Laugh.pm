@@ -1,6 +1,6 @@
 package Acme::Laugh;
 
-use version; $VERSION = qv('0.0.2');
+use version; $VERSION = qv('0.0.4');
 
 use warnings;
 use strict;

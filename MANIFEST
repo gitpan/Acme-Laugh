@@ -10,3 +10,4 @@ t/01.laugh.t
 t/pod-coverage.t
 t/pod.t
 eg/xchat-laugh.pl
+META.json

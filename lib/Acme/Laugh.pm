@@ -1,6 +1,6 @@
 package Acme::Laugh;
 
-use version; $VERSION = qv('0.0.4');
+use version; $VERSION = qv('0.0.5');
 
 use warnings;
 use strict;
@@ -17,6 +17,8 @@ our @EXPORT      = qw();
 my @incipit = ('', qw( m b mb ));
 my @alto    = qw( w u );
 my @basso   = qw( a e );
+
+=encoding iso-8859-1
 
 =begin Private
 

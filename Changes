@@ -11,3 +11,7 @@ Revision history for Acme-Laugh
 
 0.0.4  Mon Sep 03 11:58:00 2007
        Tried to improve kwalitee. Added example plugin for xchat.
+
+0.0.5  Sun Jul 21 14:40:00 2013
+       Added encoding directive to POD.
+       Removed tests for POD for normal user.
